@@ -20,13 +20,13 @@ Write down the test cases according to your questions.
 
 Let's say, your development team implemented the feature on the Evershop site (https://demo.evershop.io/) . Now execute your test case into the URL and generate a report.
 
-[Answer Link](API Testing Q3 and Q4.xlsx)
+[Answer Link](https://github.com/moriomOdOx/ManualTesting/blob/main/API%20Testing%20Q3%20and%20Q4.xlsx)
 
 ## Q4
 
 Now there is a happy path journey for searching with the text “Nike react phantom run flyknit 2”. Add a couple of small-sized black products to your cart. Then verify the Cart. Now execute the journeys from both API and UI. Now provide feedback on your test analysis, keep logs of the defects, and generate a report.
 
-[Answer Link](API Testing Q3 and Q4.xlsx)
+[Answer Link](https://github.com/moriomOdOx/ManualTesting/blob/main/API%20Testing%20Q3%20and%20Q4.xlsx)
 
 ## How to download the project
 
