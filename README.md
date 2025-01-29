@@ -14,7 +14,7 @@ You have a shoe-selling e-commerce platform. Now, the client wants to implement 
 
 Write down the test cases according to your questions.
 
-[Answer Link](test case Q2.xlsx)
+[Answer Link](https://github.com/moriomOdOx/ManualTesting/blob/main/test%20case%20Q2.xlsx)
 
 ## Q3
 
