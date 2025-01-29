@@ -8,7 +8,7 @@ Here is a Manual Testing task both UI and API.The main focus is system testing i
 
 You have a shoe-selling e-commerce platform. Now, the client wants to implement a new feature "Search". During the client meeting, they mentioned they wanted to make the search dynamic, with any keywords, or specific text. Now you have a chance to get into more details on the feature. You can ask 10 questions to the client. List the questions according to priority.
 
-[Answer Link](test case questions Q1.pdf)
+[Answer Link](https://github.com/moriomOdOx/ManualTesting/blob/main/test%20case%20questions%20Q1.pdf)
 
 ## Q2
 
