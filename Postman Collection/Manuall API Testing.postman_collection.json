@@ -1,0 +1,68 @@
+{
+	"info": {
+		"_postman_id": "80bd2bb1-b886-46f7-af08-a5d5fe0ab9b0",
+		"name": "Manuall API Testing",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "39657948"
+	},
+	"item": [
+		{
+			"name": "searching  product",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://demo.evershop.io/search?keyword=%E2%80%9CNike+react+phantom+run+flyknit+2%E2%80%9D",
+					"protocol": "https",
+					"host": [
+						"demo",
+						"evershop",
+						"io"
+					],
+					"path": [
+						"search"
+					],
+					"query": [
+						{
+							"key": "keyword",
+							"value": "%E2%80%9CNike+react+phantom+run+flyknit+2%E2%80%9D"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "add to cart product",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"sku\": \"NJC48508-Black-X\",\r\n    \"qty\": \"2\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://demo.evershop.io/api/cart/mine/items",
+					"protocol": "https",
+					"host": [
+						"demo",
+						"evershop",
+						"io"
+					],
+					"path": [
+						"api",
+						"cart",
+						"mine",
+						"items"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
